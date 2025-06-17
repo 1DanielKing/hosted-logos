@@ -1,0 +1,4 @@
+light yellow #E7C688
+darker red #741404
+middle red #C42E16
+slightly brighter red #C83334
